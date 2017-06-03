@@ -1,5 +1,7 @@
 ## MDN Reference Search
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/clarkbw/yelp-search.svg)](https://greenkeeper.io/)
+
 A WebExtension that uses the keyword `mdn` to trigger a search of the CSS and JavaScript References on MDN.
 
 <img width="1106" alt="screen shot 2017-03-17 at 2 33 25 pm" src="https://cloud.githubusercontent.com/assets/2134/24063861/afe2d684-0b1e-11e7-88d9-261cce41924e.png">
